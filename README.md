@@ -1,20 +1,41 @@
 <h1 align="center">Hi 👋, I'm Johi Ortiz</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently studying at **42 School**
+- 🔭 I’m currently studying at **42 Madrid** and **Factoría F5**'s AI Bootcamp.
 
-- 🌱 I’m currently learning **C, Python, React, Typescript, Linux**
+- 🌱 I’m currently learning **C, Python, React, Typescript, Linux**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+[![johyorti's 42 stats](https://badge.mediaplus.ma/black/johyorti)](https://github.com/oakoudad/badge42)
+
+## 🛠️ Languages and Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="50" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+</div>
+
+## 📊 Github Stats
+
+<div align="center">
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlyZXc0emY5OWFubjM2NHhqNWNtcDBlcnh2ZzhwYmRrNHVhZ3U3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johiortiz&show_icons=true&theme=dracula" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johiortiz&layout=compact&theme=dracula" width="350px"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/johyorti">
+     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johiortiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="johiortiz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johiortiz&theme=dark" alt="johiortiz" /></p>
-
-
+<div align="center">
+    <a href="https://www.linkedin.com/in/johannaortizvallejos/">
+        <img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+    </a>
+</div>
