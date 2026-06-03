@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Johi Ortiz</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently studying at **42 Madrid** and **Factoría F5**'s AI Bootcamp.
-
 - 🌱 I’m currently learning **C, Python, React, Typescript, Linux**.
 
-[![johyorti's 42 stats](https://badge.mediaplus.ma/black/johyorti)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages and Tools
 <div align="left">
