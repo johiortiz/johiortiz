@@ -2,27 +2,42 @@ README
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Johi</h1>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-📌 About Me
+
+## 📌 About Me
+
 📍 Junior Full-Stack Developer & Web Designer based in Madrid.
-🔭 Currently building CBD e-commerce, portfolio sites, and streaming platform clones.
-🌱 Learning: Advanced backend patterns, AI/ML applications, and DevOps.
-💼 Tech stack: React, Astro, TypeScript, Node.js, MongoDB, C, Python.
-🎨 Also into UI/UX design (Figma), digital illustration, and mixology.
-🚀 Open to freelance projects and full-time opportunities.
-🧠 My Focus Areas
+
+🔭 Currently building e-commerce stores, portfolio sites, and streaming platform projects.
+
+🌱 Learning advanced backend patterns, AI/ML applications, and DevOps.
+
+💼 Tech stack: React, Astro, TypeScript, Node.js, MongoDB, C, and Python.
+
+🎨 Also into UI/UX design with Figma, digital illustration, and mixology.
+
+🚀 Open to freelance projects, collaborations, and full-time opportunities.
+
+## 🧠 My Focus Areas
+
 Full-Stack Web Development
+
 UI/UX Design
+
 E-commerce Development
+
 AI & Data Analysis
+
 Open Source Projects
-📊 GitHub Stats & Trophies
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
 <a href="https://github.com/johiortiz">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johiortiz&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="johiortiz's GitHub Stats" />
 </a>
 <img src="https://streak-stats.demolab.com/?user=johiortiz&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="johiortiz's GitHub Streak" width="49%" />
 </p>
-🛠️ Languages & Tools
+
+## 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
@@ -71,7 +86,8 @@ Open Source Projects
 </a>
 </p>
 <br/>
-🔗 Connect with Me
+
+## 🔗 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/johi-ortiz-vallejos/">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -80,7 +96,8 @@ Open Source Projects
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
 </a>
 </p>
-💬 Quote
+
+## 💬 Quote
 Turning creative ideas into digital experiences.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
